@@ -1,16 +1,25 @@
-## Hi there 👋
+# OliLM ¡Si, ese soy yo!
 
-<!--
-**OliLM/OliLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sobre mi
+Soy un joven desarrollador web ecuatoriano, uno mas en este mar gigante de desarrolladores. Apasionado por mostrar la informacion de la forma mas simple
+y legible posible. Además de pasar sentado frente a un monitor, también me gusta practicar deportes, la fotografía de manera muy simple y admirar el arte.
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
+## Información personal
+* Nombre: [Olivier Leon Marquez]
+* Ocupación: [Tu ocupación]
+* Lugar de residencia: []
+* Sitio web: [Tu sitio web]
+* Correo : olirmarq@espol.edu.ec
+## Proyectos
+* [Lista de tus proyectos]
+## Intereses
+* Aprender JavaScript junto a CSS y React
+* Programacion movil
+## Lenguajes de Programacion
+* Python
+* Java
+## Herramientas
+* Git
