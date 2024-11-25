@@ -12,12 +12,14 @@ y legible posible. Además de pasar sentado frente a un monitor, también me gus
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: [Olivier Leon Marquez]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: []
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Tu sitio web]
 * Correo : olirmarq@espol.edu.ec
 ## Proyectos
-* [Lista de tus proyectos]
+* Proyecto 01 - Curriculum Vitae
+* Proyecto 02 - Landing Page
+* Proyecto 03 - Dashboard 
 ## Intereses
 * Aprender JavaScript junto a CSS y React
 * Programacion movil
