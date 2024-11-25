@@ -17,7 +17,7 @@ y legible posible. Además de pasar sentado frente a un monitor, también me gus
 * Sitio web: [Tu sitio web]
 * Correo : olirmarq@espol.edu.ec
 ## Proyectos
-* Proyecto 01 - Curriculum Vitae
+* Proyecto 01 - Curriculum Vitae (https://olilm.github.io/Curriculum/)
 * Proyecto 02 - Landing Page
 * Proyecto 03 - Dashboard 
 ## Intereses
